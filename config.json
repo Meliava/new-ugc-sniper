@@ -1,0 +1,49 @@
+{
+    "webhook": {
+        "enabled": true,
+        "url": "yourwebhook"
+    },
+    "items": {
+        "start": null,
+        "item_list": [
+            {
+                "id": "13694238458",
+                "max_price": 0,
+                "max_buys": null
+            }
+        ]
+    },
+    "accounts": [
+        {
+            "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_"
+        }
+    ],
+    "rooms": {
+        "enabled": false,
+        "username": "no name",
+        "room_code": "3792738971",
+        "item_setup": {
+            "max_price": 0,
+            "max_buys": null
+        }   
+    },
+    "proxy": {
+        "enabled": false,
+        "timeout_ms": 10000,
+        "proxy_list": "proxies.txt",
+        "authentication": {
+            "enabled": false,
+            "username": "",
+            "password": ""
+        }
+    },
+    "theme": {
+        "name": "main_theme",
+        "wait_time": 1
+    },
+    "discord": {
+        "enabled": false,
+        "prefix": "$",
+        "token": ""
+    }
+}
