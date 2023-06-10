@@ -8,7 +8,7 @@
 - supports discord webhooks
 
 ## usage
--Fill  config.json (Webhook, Cookies, Ids)
--If you want a autosearch enable a rooms on config.json ( if u enable a autosearch u dont need a put ids)
--And open run.bat
+- Fill  config.json (Webhook, Cookies, Ids)
+- If you want a autosearch enable a rooms on config.json ( if u enable a autosearch u dont need a put ids)
+- And open run.bat
 ## IF U HAVE PROBLEM WRITE ME CheGueveraa#0117
